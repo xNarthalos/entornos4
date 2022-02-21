@@ -9,7 +9,8 @@ package dam_ed04_actividad;
  * @author Aleja
  */
 public class Main { public static void main(String[] args) {
-    operativa_cuenta();    
+    operativa_cuenta(); 
+    System.out.println("Prueba");
     }
 public static void operativa_cuenta(){
         float cantidad;
