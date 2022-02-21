@@ -6,7 +6,7 @@ package dam_ed04_actividad;
 
 /**
  *
- * @author Aleja
+ * @author Alejandro
  */
 public class CCuenta {
 
